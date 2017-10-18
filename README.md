@@ -1,17 +1,17 @@
-#KVIS utility for android
+# KVIS utility for android
 KVIS utlity (KU) is an KVSI student assistance application made by Makham (batch 2 KVIS student commitee member). KU now currently on alpha-server means that all the data made in this version will be deleted when it's fully released. 
 
-##Download test APK
+## Download test APK
 **Test APK aren't stable and can crash at any time. Use it for feature testing or debugging only.**
 [Download APK from github](https://github.com/Ttanasart-pt/KVIS-utility-android)
 [Direct link](https://github.com/Ttanasart-pt/KVIS-utility-android/blob/master/app-debug%20a0.3.apk?raw=true)
 
-##Features
+## Features
 * Time table
 * News
 * Room planner
 
-##Version history
+## Version history
 * Alpha-server build 3 (a0.3)
 	* Added student infomation page
 	* Save time table to internal storage
