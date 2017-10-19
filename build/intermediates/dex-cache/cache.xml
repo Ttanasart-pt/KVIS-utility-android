@@ -2,15 +2,6 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="C:\Users\Makham\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.0\7ff0e000d1e27e356567f56c92af3b8ab912636f\picasso-2.5.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="7ff0e000d1e27e356567f56c92af3b8ab912636f">
-        <dex dex="C:\Users\Makham\AndroidStudioProjects\NewsReader2\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.0_c1d6921dfb8df2483659406a43e3a6c855b7f69e\classes.dex" />
-    </item>
-    <item
         is-multidex="false"
         jar="C:\Users\Makham\.android\build-cache\e5b18a926ef9c1e712848729f4e0d4608b51fcec\output\jars\classes.jar"
         jumboMode="false"
@@ -57,15 +48,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Makham\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
-        <dex dex="C:\Users\Makham\AndroidStudioProjects\NewsReader2\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_b5381afce5c2c359da3557d842e1eb959824ed50.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="C:\Users\Makham\.android\build-cache\d1c1fe77b862e220d9adf0eb8bcef58a5b711cdc\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -90,6 +72,15 @@
         revision="25.0.3"
         sha1="95519720620b553f63afc789beba9ad582807f7c">
         <dex dex="C:\Users\Makham\AndroidStudioProjects\NewsReader2\app\build\intermediates\pre-dexed\debug\classes_92938db7f7521cb830e65a7e1fd7cd58c2aabb95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Makham\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.0\7ff0e000d1e27e356567f56c92af3b8ab912636f\picasso-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7ff0e000d1e27e356567f56c92af3b8ab912636f">
+        <dex dex="C:\Users\Makham\AndroidStudioProjects\NewsReader2\app\build\intermediates\pre-dexed\debug\picasso-2.5.0_c1d6921dfb8df2483659406a43e3a6c855b7f69e.jar" />
     </item>
     <item
         is-multidex="false"
@@ -142,7 +133,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="c9f26262091e2ea5183c5f0268901b5716368416">
+        sha1="685e8c1ec6203d6379d7f77d9570d49faef0d1e9">
         <dex dex="C:\Users\Makham\AndroidStudioProjects\NewsReader2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1bc025bd2cba871e3a5b48ab48f27393e077b413\classes.dex" />
     </item>
     <item
