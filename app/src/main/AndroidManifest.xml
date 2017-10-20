@@ -31,6 +31,9 @@
         <activity android:name=".StudentInfoAdd"
             android:theme="@style/AppTheme.NoActionBar"
             />
+        <activity android:name=".NewsEditorEditActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
     </application>
 
 </manifest>

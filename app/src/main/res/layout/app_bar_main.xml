@@ -59,6 +59,9 @@
                 android:id="@+id/view_table"
                 layout="@layout/content_timetable"></include>
 
+            <include
+                android:id="@+id/view_edit_news"
+                layout="@layout/news_editor_main"></include>
         </ViewFlipper>
 
     </LinearLayout>
