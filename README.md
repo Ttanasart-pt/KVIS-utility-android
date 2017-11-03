@@ -12,6 +12,13 @@ KVIS utlity (KU) is an KVSI student assistance application made by Makham (batch
 * Room planner
 
 ## Version history
+* Beta build 1 (b1)
+	* timetable editor
+	* Access level in news editor layout
+	* Full timetable 
+	* Full class, room support
+	* Logout, delete credential.
+
 * Alpha-server build 3 (a0.3)
 	* Added student infomation page
 	* Save time table to internal storage
