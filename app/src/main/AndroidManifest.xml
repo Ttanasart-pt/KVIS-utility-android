@@ -2,7 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.makham.newsreader">
 
-    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CLEAR_APP_CACHE"/>
 
     <application
         android:allowBackup="true"
@@ -20,20 +21,21 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-
         </activity>
-        <activity android:name=".NewsPopup"
-            android:theme="@style/AppTheme.CustomTheme">
-        </activity>
-        <activity android:name=".TimeTableFull"
-            android:theme="@style/AppTheme.NoActionBar">
-        </activity>
-        <activity android:name=".StudentInfoAdd"
-            android:theme="@style/AppTheme.NoActionBar"
-            />
-        <activity android:name=".NewsEditorEditActivity"
-            android:theme="@style/AppTheme.NoActionBar">
-        </activity>
+        <activity
+            android:name=".NewsPopup"
+            android:theme="@style/AppTheme.CustomTheme"></activity>
+        <activity
+            android:name=".TimeTableFull"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity
+            android:name=".StudentInfoAdd"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".NewsEditorEditActivity"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity android:name=".TimeTableEditor"
+            ></activity>
     </application>
 
 </manifest>

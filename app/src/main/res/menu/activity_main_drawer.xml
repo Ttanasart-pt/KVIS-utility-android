@@ -19,7 +19,9 @@
             android:icon="@drawable/ic_menu_manage"
             android:title="Setting" />
     </group>
-    <item android:title="Editing tool">
+    <item
+        android:id="@+id/nav_group_edit"
+        android:title="Editing tool">
         <menu>
             <group android:checkableBehavior="single">
                 <item
@@ -33,17 +35,19 @@
             </group>
         </menu>
     </item>
-    <item android:title="My account">
+    <item
+        android:id="@+id/nav_group_account"
+        android:title="My account">
         <menu>
             <group android:checkableBehavior="single">
-            <item
-                android:id="@+id/nav_share"
-                android:icon="@drawable/ic_menu_share"
-                android:title="Edit account" />
-            <item
-                android:id="@+id/nav_send"
-                android:icon="@drawable/ic_menu_send"
-                android:title="Log out" />
+                <item
+                    android:id="@+id/nav_account"
+                    android:icon="@drawable/ic_menu_share"
+                    android:title="Edit account" />
+                <item
+                    android:id="@+id/nav_logout"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="Log out" />
             </group>
         </menu>
     </item>
