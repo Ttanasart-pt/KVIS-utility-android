@@ -1,5 +1,5 @@
 # KVIS utility for android
-KVIS utlity (KU) is an KVSI student assistance application made by Makham (batch 2 KVIS student commitee member). KU now currently on alpha-server means that all the data made in this version will be deleted when it's fully released. 
+KVIS utlity (KU) is an KVIS student assistance application made by Makham (batch 2 KVIS student commitee member). KU now currently on alpha-server means that all the data made in this version will be deleted when it's fully released. 
 
 ## Download latest APK [Beta build 3]
 **Test APK aren't stable and can crash at any time. Use it for feature testing or debugging only.**
