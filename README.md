@@ -6,6 +6,8 @@ KVIS utlity (KU) is an KVIS student assistance application made by Makham (batch
 * [Download APK from github](https://github.com/Ttanasart-pt/KVIS-utility-android)
 * [Direct link](https://github.com/Ttanasart-pt/KVIS-utility-android/blob/master/app-debug%20b3.apk?raw=true)
 
+## Documentation
+Download KU documentation [here](https://github.com/Ttanasart-pt/KVIS-utility-android/raw/master/Documentation.pdf)
 
 ## Features
 * Time table
